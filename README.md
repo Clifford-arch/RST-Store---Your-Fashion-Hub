@@ -13,4 +13,4 @@ This project is designed to serve as an online hub for fashion-related content a
 @ Frontend: React, HTML, CSS, JavaScript
 @ Backend: Node.js, Express.js
 @ Database: MongoDB
-@ Payment Integration: PayPal,
+@ Payment Integration: PayPal (Will be implemented in latter itterations)
